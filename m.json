@@ -1,0 +1,31 @@
+{
+    "teams" : [
+        {
+            "name" : "As",
+            "players" : [
+                {   
+                    "name" : "117",
+                    "brain" : "./117.py"
+                },
+                {
+                    "name" : "human",
+                    "brain" : "./human.py"
+                }
+            ]
+        },
+        {
+            "name" : "GJ",
+            "players" : [
+                {
+                    "name" : "blue",
+                    "brain" : "./blue.py"
+                },
+                {
+                    "name" : "fenix",
+                    "brain" : "./fenix.py"
+                }
+            ]
+        }
+    ]
+}
+
